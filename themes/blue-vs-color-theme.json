@@ -88,9 +88,17 @@
 		"gitDecoration.stageDeletedResourceForeground": "#1e1e1e",
 		"gitDecoration.stageModifiedResourceForeground": "#1e1e1e",
 		"gitDecoration.submoduleResourceForeground": "#1e1e1e",
-		"icon.foreground": "#cccccc",
+		"icon.foreground": "#333333",
 		"input.background": "#fcfcfc",
 		"input.border": "#203d77",
+
+		"inputOption.activeBackground": "#c4d5ff",
+		"inputOption.activeForeground": "#000000",
+		"inputOption.activeBorder": "#203d77",
+
+		"toolbar.hoverBackground": "#c4d5ff",
+		"toolbar.activeBackground": "#99c9ef",
+		"toolbar.hoverOutline": "#203d77",
 		"list.inactiveSelectionBackground": "#e6e7ef",
 		"list.hoverBackground": "#00000000",
 		"list.activeSelectionBackground": "#c4d5ff",
